@@ -1,6 +1,6 @@
 # High-Accuracy CNN for CIFAR-10 Image Classification
 
-### 🚀 [View the Interactive Project Infographic Here!](index.html)
+### 🚀 [View the Interactive Project Infographic Here!](https://hamzaelbensiri.github.io/cifar10-image-classifier/#deep-dive)
 
 
 ---
